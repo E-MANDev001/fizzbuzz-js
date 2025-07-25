@@ -12,4 +12,4 @@ This is a simple JavaScript program that takes a number from the user and prints
 
 
 ## How to Run
-Open the `index.html` in a browser and enter a number in the prompt box.
+Open the `FizzBuzz.html` in a browser and enter a number in the prompt box.
